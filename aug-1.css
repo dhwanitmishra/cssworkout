@@ -1,0 +1,29 @@
+html, body {
+  background: #B6EBE7;
+  height: 100%;
+  margin: 0;
+}
+.bar1 {
+  position: absolute;
+  width: 50vw;
+  height: 17vh;
+  left: 5vh;
+  top: 5vh;
+  background: #3A335A;
+}
+.bar2 {
+  position: absolute;
+  width: 13vh;
+  height: 38vh;
+  left: 45vw;
+  top: 28vh;
+  background: #3A335A;
+}
+.bar3 {
+  position: absolute;
+  width: 50vw;
+  height: 17vh;
+  left: 45vw;
+  top: 75vh;
+  background: #3A335A;
+}
